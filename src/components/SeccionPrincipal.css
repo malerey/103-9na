@@ -1,0 +1,11 @@
+.seccion {
+  height: 500px;
+}
+
+.modal {
+  border: 1px solid black;
+  padding: 20px;
+  margin: 20px;
+  height: 200px;
+  width: 200px;
+}
